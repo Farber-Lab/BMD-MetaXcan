@@ -4,7 +4,7 @@ Morris et al. summary stats from https://www.ebi.ac.uk/gwas/studies/GCST006979
 Tutorial using GTEx v8 MASH models 
 https://github.com/hakyimlab/MetaXcan/wiki/Tutorial:-GTEx-v8-MASH-models-integration-with-a-Coronary-Artery-Disease-GWAS
 
-### 1.) subset_gwas.R
+### 1.) [subset_gwas.R]
 Subsets a full summary stats file to only the needed column for SPrediXcan including effect allele, non-effect allele, chromosome, position, standard error, and effect size. It will output a tab delimited file, which is required for SPrediXcan.
 
 ### 2.) harmonization.sh

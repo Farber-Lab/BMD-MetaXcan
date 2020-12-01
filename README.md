@@ -1,7 +1,7 @@
 # Bone Mineral Density SPrediXcan and SMultiXcan 
 Morris et al. summary stats from https://www.ebi.ac.uk/gwas/studies/GCST006979
 
-Tutorial using GTEx vu MASH models 
+Tutorial using GTEx v8 MASH models 
 https://github.com/hakyimlab/MetaXcan/wiki/Tutorial:-GTEx-v8-MASH-models-integration-with-a-Coronary-Artery-Disease-GWAS
 
 ### 1.) subset_gwas.R

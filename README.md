@@ -17,7 +17,7 @@ Imputes summary statistics. "Summary statistics imputation works in a "region-wi
 The imputation script splits jobs into smaller units. This script gathers them together and processes them. 
 
 ### 5.) SPrediXcan.sh
-Runs SPrediXcan on each of the 49 tissues in GTEx v8 using a loop.
+Runs SPrediXcan on each of the 49 tissues in GTEx v8 using a loop. 49 tissues are listed in tissue_list.txt
 
 ### 6.) MultiXcan.sh
 Runs MultiXcan using SPrediXcan outputs from each of the 49 tissues. MultiXcan leverages multiple tissues simultaneously, exploiting cross-tissue QTL sharing.
